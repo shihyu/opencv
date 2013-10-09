@@ -1,0 +1,13053 @@
+
+post-prompt
+No breakpoints or watchpoints.
+
+breakpoints-table-end
+
+post-prompt
+
+error-begin
+The program is not being run.
+
+error
+
+post-prompt
+No breakpoints or watchpoints.
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+[New Thread 0x7fffec51c700 (LWP 18346)]
+
+new-thread
+
+frames-invalid
+
+frames-invalid
+[New Thread 0x7fffebd1b700 (LWP 18347)]
+
+new-thread
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+[Thread 0x7fffec51c700 (LWP 18346) exited]
+[Thread 0x7ffff7fbd940 (LWP 18343) exited]
+
+exited 0
+[Inferior 1 (process 18343) exited normally]
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+stopped
+
+post-prompt
+No breakpoints or watchpoints.
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+[New Thread 0x7fffec51c700 (LWP 18352)]
+
+new-thread
+
+frames-invalid
+
+frames-invalid
+[New Thread 0x7fffebd1b700 (LWP 18353)]
+
+new-thread
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+[Thread 0x7fffec51c700 (LWP 18352) exited]
+[Thread 0x7ffff7fbd940 (LWP 18351) exited]
+
+exited 0
+[Inferior 1 (process 18351) exited normally]
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+stopped
+
+post-prompt
+No breakpoints or watchpoints.
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+Breakpoint 1 at 0x400cf6: file main.cpp, line 48.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 1
+
+Breakpoint 1, 
+frame-begin 0 0x400cf6
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+48
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:48:1494:beg:0x400cf6
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:49:1497:beg:0x400d04
+
+frame-end
+
+stopped
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:51:1549:beg:0x400d17
+
+frame-end
+
+stopped
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+frame-begin 0 0x400d17
+#0  
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+51
+frame-source-end
+
+
+frame-end
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+frame-begin 0 0x400d17
+#0  
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+51
+frame-source-end
+
+
+frame-end
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 1
+
+Breakpoint 1, 
+frame-begin 0 0x400cf6
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+48
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:48:1494:beg:0x400cf6
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:49:1497:beg:0x400d04
+
+frame-end
+
+stopped
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frame-begin 0 0x7ffff6333206
+
+frame-function-name
+cvLoadImage
+frame-args
+ (
+arg-begin
+filename
+arg-name-end
+=
+arg-value *
+0x0
+arg-end
+, 
+arg-begin
+iscolor
+arg-name-end
+=
+arg-value -
+32767
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+476
+frame-source-end
+
+
+source /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476:13604:beg:0x7ffff6333206
+
+frame-end
+
+stopped
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+post-prompt
+Current source file is /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Compilation directory is /home/shihyu/opencv-2.4.6.1/debug/modules/highgui
+Located in /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Contains 545 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Includes preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+frame-begin 0 0x7ffff6333206
+#0  
+frame-function-name
+cvLoadImage
+frame-args
+ (
+arg-begin
+filename
+arg-name-end
+=
+arg-value *
+0x0
+arg-end
+, 
+arg-begin
+iscolor
+arg-name-end
+=
+arg-value -
+32767
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+476
+frame-source-end
+
+
+frame-end
+
+frame-begin 1 0x400d13
+#1  
+frame-address
+0x0000000000400d13
+frame-address-end
+ in 
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+49
+frame-source-end
+
+
+frame-end
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 1
+
+Breakpoint 1, 
+frame-begin 0 0x400cf6
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+48
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:48:1494:beg:0x400cf6
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+Breakpoint 2 at 0x400d17: file main.cpp, line 51.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 1
+
+Breakpoint 1, 
+frame-begin 0 0x400cf6
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+48
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:48:1494:beg:0x400cf6
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 2
+
+Breakpoint 2, 
+frame-begin 0 0x400d17
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+51
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:51:1549:beg:0x400d17
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+frame-begin 0 0x400d17
+#0  
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+51
+frame-source-end
+
+
+frame-end
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+rbreak
+
+post-prompt
+
+error-begin
+Quit
+
+quit
+
+post-prompt
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 1
+
+Breakpoint 1, 
+frame-begin 0 0x400cf6
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+48
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:48:1494:beg:0x400cf6
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:49:1497:beg:0x400d04
+
+frame-end
+
+stopped
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+frame-begin 0 0x7ffff6333206
+
+frame-function-name
+cvLoadImage
+frame-args
+ (
+arg-begin
+filename
+arg-name-end
+=
+arg-value *
+0x0
+arg-end
+, 
+arg-begin
+iscolor
+arg-name-end
+=
+arg-value -
+32767
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+476
+frame-source-end
+
+
+source /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476:13604:beg:0x7ffff6333206
+
+frame-end
+
+stopped
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+post-prompt
+Current source file is /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Compilation directory is /home/shihyu/opencv-2.4.6.1/debug/modules/highgui
+Located in /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Contains 545 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Includes preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+frame-begin 0 0x7ffff6333206
+#0  
+frame-function-name
+cvLoadImage
+frame-args
+ (
+arg-begin
+filename
+arg-name-end
+=
+arg-value *
+0x0
+arg-end
+, 
+arg-begin
+iscolor
+arg-name-end
+=
+arg-value -
+32767
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+476
+frame-source-end
+
+
+frame-end
+
+frame-begin 1 0x400d13
+#1  
+frame-address
+0x0000000000400d13
+frame-address-end
+ in 
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+49
+frame-source-end
+
+
+frame-end
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+Working directory /home/shihyu/下載/opencv_2.4.2.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+LC_PAPER=zh_TW.UTF-8
+ORBIT_SOCKETDIR=/tmp/orbit-shihyu
+LESS_TERMCAP_mb=[38;5;167m
+LC_ADDRESS=zh_TW.UTF-8
+SSH_AGENT_PID=2348
+TERMINATOR_UUID=urn:uuid:5ba2b50b-6db3-4e86-96d0-062968c6bb09
+LC_MONETARY=zh_TW.UTF-8
+LESS_TERMCAP_md=[38;5;39m
+LESS_TERMCAP_me=[38;5;231m
+GPG_AGENT_INFO=/tmp/keyring-rY5flD/gpg:0:1
+ANDROID_SWT=/home/shihyu/myandroid/prebuilt/linux-x86_64/swt
+TERM=xterm
+SHELL=/bin/bash
+XDG_SESSION_COOKIE=a33e43c700e4e89dedaed02100000006-1379463952.422358-24310442
+WINDOWID=88080388
+LC_NUMERIC=zh_TW.UTF-8
+OLDPWD=/usr/local/opencv
+GNOME_KEYRING_CONTROL=/tmp/keyring-rY5flD
+LC_ALL=zh_TW.UTF-8
+USER=shihyu
+LC_TELEPHONE=zh_TW.UTF-8
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+SSH_AUTH_SOCK=/tmp/keyring-rY5flD/ssh
+SESSION_MANAGER=local/shihyu-MS-7758:@/tmp/.ICE-unix/2294,unix/shihyu-MS-7758:/tmp/.ICE-unix/2294
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+PAGER=/usr/bin/less -s
+LESS_TERMCAP_us=[38;5;167m
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+PATH=/usr/local/heroku/bin:/home/shihyu/bin:/home/shihyu/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/FriendlyARM/toolschain/4.4.3/bin:/home/shihyu/.rvm/bin
+DESKTOP_SESSION=ubuntu
+QT_IM_MODULE=xim
+LC_IDENTIFICATION=zh_TW.UTF-8
+PWD=/home/shihyu/下載/opencv_2.4.2
+XMODIFIERS=@im=ibus
+GNOME_KEYRING_PID=2283
+LANG=zh_TW.UTF-8
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+LC_MEASUREMENT=zh_TW.UTF-8
+UBUNTU_MENUPROXY=libappmenu.so
+COMPIZ_CONFIG_PROFILE=ubuntu
+PS1=\[\e[36;1m\][\[\e[33;1m\]姚\[\e[35;1m\]@\[\e[32;1m\]\H \[\e[31;1m\]\w\[\e[36;1m\]]\[\e[34;1m\]\$ \[\e[37;1m\]
+GDMSESSION=ubuntu
+SHLVL=1
+HOME=/home/shihyu
+LANGUAGE=zh_TW:zh:en_US:en
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+PYTHONPATH=:/usr/local/opencv/lib/python2.7/dist-packages
+LOGNAME=shihyu
+LESS_TERMCAP_so=[38;5;167m
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vHkU2eQWP7,guid=ca38ffc89274fcbcf3c3850300000017
+PKG_CONFIG_PATH=:/usr/local/opencv/lib/pkgconfig
+BROWSER=/usr/bin/less -s
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=Unity
+GTK_IM_MODULE=ibus
+LC_TIME=zh_TW.UTF-8
+HISTTIMEFORMAT=%F %T
+LESS_TERMCAP_se=[38;5;231m
+COLORTERM=gnome-terminal
+XAUTHORITY=/home/shihyu/.Xauthority
+LC_NAME=zh_TW.UTF-8
+_=/usr/bin/cgdb
+LINES=24
+COLUMNS=80
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+frame-begin 0 0x7ffff6333206
+#0  
+frame-function-name
+cvLoadImage
+frame-args
+ (
+arg-begin
+filename
+arg-name-end
+=
+arg-value *
+0x0
+arg-end
+, 
+arg-begin
+iscolor
+arg-name-end
+=
+arg-value -
+32767
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+476
+frame-source-end
+
+
+frame-end
+
+frame-begin 1 0x400d13
+#1  
+frame-address
+0x0000000000400d13
+frame-address-end
+ in 
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+49
+frame-source-end
+
+
+frame-end
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+post-prompt
+
+post-prompt
+record
+refresh
+remote
+remove-inferiors
+restart
+restore
+return
+reverse-continue
+reverse-finish
+reverse-next
+reverse-nexti
+reverse-search
+reverse-step
+reverse-stepi
+
+post-prompt
+rbreak
+
+post-prompt
+
+breakpoints-invalid
+Breakpoint 3 at 0x7ffff632eeba: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 59.
+void cv::ImageCodecInitializer::ImageCodecInitializer();
+
+breakpoints-invalid
+Breakpoint 4 at 0x7ffff633afd4: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 58.
+void cv::ImageCodecInitializer::~ImageCodecInitializer();
+
+breakpoints-invalid
+Breakpoint 5 at 0x7ffff633197c: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 391.
+cv::Mat cv::imdecode(cv::_InputArray const&, int);
+
+breakpoints-invalid
+Breakpoint 6 at 0x7ffff6331a89: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 398.
+cv::Mat cv::imdecode(cv::_InputArray const&, int, cv::Mat*);
+
+breakpoints-invalid
+Breakpoint 7 at 0x7ffff6331be4: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 407.
+bool cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&);
+
+breakpoints-invalid
+Breakpoint 8 at 0x7ffff63305e7: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 259.
+cv::Mat cv::imread(std::string const&, int);
+
+breakpoints-invalid
+Breakpoint 9 at 0x7ffff6330fc9: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 299.
+bool cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&);
+
+breakpoints-invalid
+Breakpoint 10 at 0x7ffff63336bb: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 503.
+IplImage *cvDecodeImage(CvMat const*, int);
+
+breakpoints-invalid
+Breakpoint 11 at 0x7ffff6333a18: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 511.
+CvMat *cvDecodeImageM(CvMat const*, int);
+
+error-begin
+Function "cvEncodeImage(char const*, CvArr const*, int const*)" not defined in "/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp".
+
+error
+CvMat *cvEncodeImage(char const*, CvArr const*, int const*);
+
+breakpoints-invalid
+Breakpoint 12 at 0x7ffff6332f78: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 463.
+int cvHaveImageReader(char const*);
+
+breakpoints-invalid
+Breakpoint 13 at 0x7ffff63330bf: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 469.
+int cvHaveImageWriter(char const*);
+
+breakpoints-invalid
+Breakpoint 14 at 0x7ffff6333206: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 476.
+IplImage *cvLoadImage(char const*, int);
+
+breakpoints-invalid
+Breakpoint 15 at 0x7ffff6333303: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 482.
+CvMat *cvLoadImageM(char const*, int);
+
+error-begin
+Function "cvSaveImage(char const*, CvArr const*, int const*)" not defined in "/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp".
+
+error
+int cvSaveImage(char const*, CvArr const*, int const*);
+
+breakpoints-invalid
+Breakpoint 16 at 0x7ffff633b071: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 543.
+static void __static_initialization_and_destruction_0(int, int);
+
+breakpoints-invalid
+Breakpoint 17 at 0x7ffff632fb7b: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 128.
+static cv::ImageDecoder cv::findDecoder(cv::Mat const&);
+
+breakpoints-invalid
+Breakpoint 18 at 0x7ffff632f89c: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 102.
+static cv::ImageDecoder cv::findDecoder(std::string const&);
+
+breakpoints-invalid
+Breakpoint 19 at 0x7ffff632fe46: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 155.
+static cv::ImageEncoder cv::findEncoder(std::string const&);
+
+breakpoints-invalid
+Breakpoint 20 at 0x7ffff63310b1: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 306.
+static void *cv::imdecode_(cv::Mat const&, int, int, cv::Mat*);
+
+breakpoints-invalid
+Breakpoint 21 at 0x7ffff6330148: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 197.
+static void *cv::imread_(std::string const&, int, int, cv::Mat*);
+
+breakpoints-invalid
+Breakpoint 22 at 0x7ffff63306a3: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 267.
+static 
+    bool cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool);
+
+breakpoints-invalid
+Breakpoint 23 at 0x7ffff633b135: file /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp, line 543.
+static void global constructors keyed to loadsave.cpp(void);
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+
+breakpoints-table-end
+
+post-prompt
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+starting
+
+frames-invalid
+
+frames-invalid
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
+
+frames-invalid
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 23
+
+Breakpoint 23, 
+frame-begin 0 0x7ffff633b135
+
+frame-function-name
+global constructors keyed to loadsave.cpp(void)
+frame-args
+ ()
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+543
+frame-source-end
+
+
+source /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543:15517:beg:0x7ffff633b135
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Compilation directory is /home/shihyu/opencv-2.4.6.1/debug/modules/highgui
+Located in /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Contains 545 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Includes preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 16
+
+Breakpoint 16, 
+frame-begin 0 0x7ffff633b071
+
+frame-function-name
+__static_initialization_and_destruction_0
+frame-args
+ (
+arg-begin
+__initialize_p
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+__priority
+arg-name-end
+=
+arg-value -
+65535
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+543
+frame-source-end
+
+
+source /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543:15517:beg:0x7ffff633b071
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Compilation directory is /home/shihyu/opencv-2.4.6.1/debug/modules/highgui
+Located in /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Contains 545 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Includes preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 3
+
+Breakpoint 3, 
+frame-begin 0 0x7ffff632eeba
+
+frame-function-name
+cv::ImageCodecInitializer::ImageCodecInitializer
+frame-args
+ (
+arg-begin
+this
+arg-name-end
+=
+arg-value *
+0x607300
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+/home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+frame-source-file-end
+:
+frame-source-line
+59
+frame-source-end
+
+
+source /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59:2517:beg:0x7ffff632eeba
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Compilation directory is /home/shihyu/opencv-2.4.6.1/debug/modules/highgui
+Located in /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp
+Contains 545 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Includes preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+starting
+
+frames-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoint 1
+
+Breakpoint 1, 
+frame-begin 0 0x400cf6
+
+frame-function-name
+main
+frame-args
+ (
+arg-begin
+argc
+arg-name-end
+=
+arg-value -
+1
+arg-end
+, 
+arg-begin
+argv
+arg-name-end
+=
+arg-value *
+0x7fffffffe378
+arg-end
+)
+frame-source-begin
+ at 
+frame-source-file
+main.cpp
+frame-source-file-end
+:
+frame-source-line
+48
+frame-source-end
+
+
+source /home/shihyu/下載/opencv_2.4.2/main.cpp:48:1494:beg:0x400cf6
+
+frame-end
+
+stopped
+
+post-prompt
+Current source file is main.cpp
+Compilation directory is /home/shihyu/下載/opencv_2.4.2
+Located in /home/shihyu/下載/opencv_2.4.2/main.cpp
+Contains 63 lines.
+Source language is c++.
+Compiled with DWARF 2 debugging format.
+Does not include preprocessor macro info.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Source directories searched: $cdir:$cwd
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Source directories searched: $cdir:$cwd
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Source directories searched: $cdir:$cwd
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Source directories searched: $cdir:$cwd
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Warning: /home/shihyu/下載/opencv_2.4.2/path-list: 沒有此一檔案或目錄.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Warning: /home/shihyu/下載/opencv_2.4.2/path-list: 沒有此一檔案或目錄.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+post-prompt
+Warning: /home/shihyu/下載/opencv_2.4.2/path-list: 沒有此一檔案或目錄.
+
+post-prompt
+
+breakpoints-headers
+
+field 0
+Num     
+field 1
+Type           
+field 2
+Disp 
+field 3
+Enb 
+field 4
+Address            
+field 5
+What
+
+breakpoints-table
+
+record
+
+field 0
+1       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400cf6 
+field 5
+in main(int, char**) at main.cpp:48
+	breakpoint already hit 1 time
+
+record
+
+field 0
+2       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x0000000000400d17 
+field 5
+in main(int, char**) at main.cpp:51
+
+record
+
+field 0
+3       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632eeba 
+field 5
+in cv::ImageCodecInitializer::ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:59
+	breakpoint already hit 1 time
+
+record
+
+field 0
+4       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633afd4 
+field 5
+in cv::ImageCodecInitializer::~ImageCodecInitializer() 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:58
+
+record
+
+field 0
+5       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633197c 
+field 5
+in cv::imdecode(cv::_InputArray const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:391
+
+record
+
+field 0
+6       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331a89 
+field 5
+in cv::imdecode(cv::_InputArray const&, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:398
+
+record
+
+field 0
+7       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6331be4 
+field 5
+in cv::imencode(std::string const&, cv::_InputArray const&, std::vector<unsigned char, std::allocator<unsigned char> >&, std::vector<int, std::allocator<int> > const&) at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:407
+
+record
+
+field 0
+8       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63305e7 
+field 5
+in cv::imread(std::string const&, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:259
+
+record
+
+field 0
+9       
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330fc9 
+field 5
+in cv::imwrite(std::string const&, cv::_InputArray const&, std::vector<int, std::allocator<int> > const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:299
+
+record
+
+field 0
+10      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63336bb 
+field 5
+in cvDecodeImage(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:503
+
+record
+
+field 0
+11      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333a18 
+field 5
+in cvDecodeImageM(CvMat const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:511
+
+record
+
+field 0
+12      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6332f78 
+field 5
+in cvHaveImageReader(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:463
+
+record
+
+field 0
+13      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63330bf 
+field 5
+in cvHaveImageWriter(char const*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:469
+
+record
+
+field 0
+14      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333206 
+field 5
+in cvLoadImage(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:476
+
+record
+
+field 0
+15      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6333303 
+field 5
+in cvLoadImageM(char const*, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:482
+
+record
+
+field 0
+16      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b071 
+field 5
+in __static_initialization_and_destruction_0(int, int) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+record
+
+field 0
+17      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fb7b 
+field 5
+in cv::findDecoder(cv::Mat const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:128
+
+record
+
+field 0
+18      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632f89c 
+field 5
+in cv::findDecoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:102
+
+record
+
+field 0
+19      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff632fe46 
+field 5
+in cv::findEncoder(std::string const&) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:155
+
+record
+
+field 0
+20      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63310b1 
+field 5
+in cv::imdecode_(cv::Mat const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:306
+
+record
+
+field 0
+21      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff6330148 
+field 5
+in cv::imread_(std::string const&, int, int, cv::Mat*) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:197
+
+record
+
+field 0
+22      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff63306a3 
+field 5
+in cv::imwrite_(std::string const&, cv::Mat const&, std::vector<int, std::allocator<int> > const&, bool) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:267
+
+record
+
+field 0
+23      
+field 1
+breakpoint     
+field 2
+keep 
+field 3
+y   
+field 4
+0x00007ffff633b135 
+field 5
+in global constructors keyed to loadsave.cpp(void) 
+                                                   at /home/shihyu/opencv-2.4.6.1/modules/highgui/src/loadsave.cpp:543
+	breakpoint already hit 1 time
+
+breakpoints-table-end
+
+breakpoints-invalid
+
+frames-invalid
+
+breakpoints-invalid
+
+breakpoints-invalid
